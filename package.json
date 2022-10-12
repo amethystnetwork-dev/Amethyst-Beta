@@ -1,0 +1,35 @@
+{
+  "name": "amethyst",
+  "version": "1.0.0",
+  "description": "A web proxy site using Ultraviolet and Corrosion",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "frontend-test": "http-server static"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IDontCodee/Amethyst.git"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/IDontCodee/Amethyst/issues"
+  },
+  "homepage": "https://github.com/IDontCodee/Amethyst#readme",
+  "dependencies": {
+    "@tomphttp/bare-server-node": "1.0.4-deps1",
+    "body-parser": "^1.20.1",
+    "corrosion": "^1.0.0",
+    "express": "^4.18.1",
+    "node-fetch": "^3.2.6",
+    "node-static": "^0.7.11"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

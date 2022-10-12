@@ -1,0 +1,22 @@
+[
+  {
+    "img": "/assets/img/apps/youtube.jpg",
+    "location": "/uv/uv.helper.html#aHR0cHM6Ly95b3V0dWJlLmNvbQ==",
+    "title": "Youtube"
+  },
+  {
+    "img": "/assets/img/apps/spotify.jpg",
+    "location": "/uv/uv.helper.html#aHR0cHM6Ly9zcG90aWZ5LmNvbQ==",
+    "title": "Spotify"
+  },
+  {
+    "img": "/assets/img/apps/discord.jpg",
+    "location": "/uv/uv.helper.html#aHR0cHM6Ly9kaXNjb3JkLmNvbQ==",
+    "title": "Discord"
+  },
+  {
+    "img": "/assets/img/apps/vsc.png",
+    "location": "/uv/uv.helper.html#aHR0cHM6Ly92c2NvZGUuZGV2",
+    "title": "VS Code"
+  }
+]
