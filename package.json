@@ -6,11 +6,12 @@
   "type": "module",
   "scripts": {
     "start": "node index.js",
-    "frontend-test": "http-server static"
+    "frontend-test": "http-server static",
+    "build": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IDontCodee/Amethyst.git"
+    "url": "git+https://github.com/amethystnetwork-dev/Amethyst-Beta.git"
   },
   "keywords": [
     "proxy"
@@ -18,7 +19,7 @@
   "author": "",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/IDontCodee/Amethyst/issues"
+    "url": "https://github.com/amethystnetwork-dev/Amethyst-Beta/issues"
   },
   "homepage": "https://github.com/IDontCodee/Amethyst#readme",
   "dependencies": {
